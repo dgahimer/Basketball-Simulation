@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Basketball_Simulation.League
+namespace Basketball_Simulation.Rules
 {
     public class LeagueRules
     {

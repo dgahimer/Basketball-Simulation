@@ -41,8 +41,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="League\League.cs" />
+    <Compile Include="Rules\LeagueRules.cs" />
+    <Compile Include="Match\Match.cs" />
+    <Compile Include="Rules\MatchRules.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Season\Season.cs" />
+    <Compile Include="Rules\SeasonRules.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

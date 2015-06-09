@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Basketball_Simulation.Match
+namespace Basketball_Simulation.Rules
 {
     // Contains all the pertinant rules for a match
     public class MatchRules
